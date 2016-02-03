@@ -1,0 +1,108 @@
+﻿INSERT INTO badge VALUES(
+		  null,
+		  "English Rain",
+		  "Condition: for the first time, the weather is rainy when the app starts up",
+		  "englishrain.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Time Crunch",
+		  "Condition: checks into two places within 15 minutes for the first time",
+		  "timecrunch.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "All Aboard",
+		  "Condition: step by step navigation uses Network Rail for the first time",
+		  "allaboard.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Trekker",
+		  "Condition: completes a journey longer than 60 minutes for the first time",
+		  "trekker.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Flaunt It",
+		  "Condition: pressing a social share action button for the second time",
+		  "flauntit.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Super Fan",
+		  "Condition: pressing a social share action button for the 100th time",
+		  "superfan.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Ho Ho Ho",
+		  "Condition: the app is used in December for the first time",
+		  "hohoho.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Photographer",
+		  "Condition: user replaced a tile with own photo for the second time",
+		  "photographer.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Olympic Ambitions",
+		  "Condition: visited both the Oval and Wembley Stadium",
+		  "olympicambitions.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Amazing Race",
+		  "Condition: completed all Monopoly tile checkins in under three days",
+		  "amazingrace.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Sweet Tooth",
+		  "Condition: completed a step by step navigation to a dessert place for the first time",
+		  "sweettooth.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Japanophile",
+		  "Condition: completed a step by step navigation to a Japanese food place for the second time",
+		  "japanophile.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Sinophile",
+		  "Condition: completed a step by step navigation to a Chinese food place for the second time",
+		  "sinophile.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Super Size",
+		  "Condition: completed a step by step navigation to a fast food place for the first time",
+		  "supersize.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Pub Goers",
+		  "Condition: completed a step by step navigation to a pub for the second time",
+		  "pubgoers.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Big Spender",
+		  "Condition: clicked on a groupon that costs more than £100 for the first time",
+		  "bigspender.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Coupon Queen",
+		  "Condition: saved up to £100 from the app",
+		  "couponqueen.jpg"
+		  );
+INSERT INTO badge VALUES(
+		  null,
+		  "Indoor Shopper",
+		  "Condition: completed a step by step navigation to a mall for the first time",
+		  "indoorshopper.jpg"
+		  );
